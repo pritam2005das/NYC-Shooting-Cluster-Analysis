@@ -107,6 +107,7 @@ Includes:
 - `NYC Shooting Cluster Analysis.pptx`
 - `README.md`
 
+- 🔗 **Project link:** [NYC-Shooting-Cluster-Analysis](https://github.com/pritam2005das/NYC-Shooting-Cluster-Analysis)
 ---
 
 ## 📈 Key Findings
