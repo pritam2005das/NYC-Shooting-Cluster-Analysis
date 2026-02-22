@@ -131,4 +131,4 @@ Includes:
 ## 👨‍💻 Author
 
 **Pritam Das**  
-GitHub: https://github.com/pritam2005das
+GitHub: [pritam2005das](https://github.com/pritam2005das)
